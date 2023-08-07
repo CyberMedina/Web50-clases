@@ -1,1 +1,1 @@
-# Web50-clases
+# Repositorio para clases prácticas de Web50
